@@ -5,9 +5,11 @@ public class PlannerRunner {
 
         // Create a new student
         Student jada = new Student();
+        Student jack = new Student(); 
 
         // Gets the student's choice until the student exits
         jada.getChoice();
+        jack.getChoice(); 
 
     }
 }
